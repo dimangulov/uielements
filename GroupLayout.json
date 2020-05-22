@@ -1,0 +1,8 @@
+{
+  "type": "GroupLayout",
+  "title": "some text here",
+  "content": {
+    "type": "StackLayout",
+    ...
+  }
+}

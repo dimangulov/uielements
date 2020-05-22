@@ -1,5 +1,14 @@
 {
   "type": "StackLayout",
   "orientation": "Horizontal|Vertical",
-  "children": []
+  "children": [
+    {
+      "type": "Label",
+      ...
+    },
+    {
+      "type": "LineBreak",
+      ...
+    }
+  ]
 }
