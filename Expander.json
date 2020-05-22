@@ -1,0 +1,8 @@
+{
+  "type": "Expander",
+  "title": "Some text",
+  "content": {
+    "type": "StackLayout",
+    ...
+  }
+}

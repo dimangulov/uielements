@@ -1,0 +1,10 @@
+{
+  "type": "Label",
+  "text": "Some text",
+  "textColor": "",
+  "fontSize": "small,default,large",
+  "attributes": [
+    "bold",
+    "italic"
+  ]
+}

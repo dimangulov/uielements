@@ -1,0 +1,8 @@
+{
+  "extensions": [
+    {
+      "type": "inlineCssStyle",
+      "value": "some style"
+    }
+  ]
+}
